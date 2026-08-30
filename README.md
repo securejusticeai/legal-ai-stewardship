@@ -2,7 +2,7 @@
 
 **Category:** AI Stewardship
 **Founder:** Richard Schreiber
-**Entity:** RAS Consulting Services LLC | SecureJustice.ai | LawFirmAIExpert.com
+**Entity:** RAS Consulting Services LLC | SecureJusticeAI | LawFirmAIExpert.com
 
 ---
 
