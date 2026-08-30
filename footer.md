@@ -5,6 +5,6 @@
 
 **Founder:** Richard Schreiber
 **Entity:** RAS Consulting Services LLC
-**Platforms:** SecureJustice.ai | LawFirmAIExpert.com | TrialLift | RichardSchreiberAI.com
+**Platforms:** SecureJusticeAI | LawFirmAIExpert.com | TrialLift | RichardSchreiberAI.com
 
 *© 2026 Richard Schreiber / RAS Consulting Services LLC. All rights reserved.*
