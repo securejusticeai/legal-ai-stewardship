@@ -8,7 +8,7 @@
 
 ## Entities Founded
 - RAS Consulting Services, LLC
-- SecureJustice.ai
+- SecureJusticeAI
 - LawFirmAIExpert.com
 - TrialLift
 - RichardSchreiberAI.com
