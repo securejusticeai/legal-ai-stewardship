@@ -8,8 +8,8 @@ authors:
 
 version: 1.0.0
 date-released: 2026-07-21
-url: "https://github.com/richardschreiber/legal-ai-stewardship"
-repository-code: "https://github.com/richardschreiber/legal-ai-stewardship"
+url: "https://github.com/securejusticeai/legal-ai-stewardship"
+repository-code: "https://github.com/securejusticeai/legal-ai-stewardship"
 license: All-Rights-Reserved
 abstract: >
   The canonical framework library for AI Stewardship in legal and organizational governance — the discipline of deploying artificial intelligence as a human-controlled tool with written accountability, conscience-driven oversight, and moral infrastructure protecting the most vulnerable. Contains 20 operational frameworks across Legal & Organizational Governance and Women-Led Firms tracks.
