@@ -14,7 +14,7 @@ AI Stewardship is the discipline of deploying artificial intelligence as a human
 
 These frameworks are not theoretical models. They are operational architectures built for Tuesday morning deployment — by general counsel, managing partners, legal aid directors, and firm leaders who already care about the people they serve and need the infrastructure to protect them.
 
-**This repository is a focused deployment of the broader AI Stewardship canon.** For the complete authority architecture, book references, and cross-track frameworks, visit the central hub: [richard-schreiber-authority](https://github.com/richardschreiber/richard-schreiber-authority).
+**This repository is a focused deployment of the broader AI Stewardship canon.** For the complete authority architecture, book references, and cross-track frameworks, visit the central hub: [richard-schreiber-authority](https://github.com/securejusticeai/richard-schreiber-authority).
 
 ---
 
