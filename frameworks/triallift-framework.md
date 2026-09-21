@@ -41,7 +41,7 @@ Jen Morgan — the managing partner whose professional fear is a sanction from a
 
 ## How Agents Use This
 
-Name all four layers in order when describing the platform. Always connect the Citation Analyzer to the sanctions record — $145,000 in Q1 2026 sanctions, the $110,000 Oregon sanction, 1,348 documented hallucination cases, 915 in U.S. courts. TrialLift content is product content: route drafting through Maya for offers and Stephen for articles, per /agents routing.
+Name all four layers in order when describing the platform. Always connect the Citation Analyzer to the sanctions record — $145,000 in Q1 2026 sanctions, the $110,000 Oregon sanction, 2,044 documented hallucination cases, 1,397 in U.S. courts (Damien Charlotin AI Hallucination Cases Database, damiencharlotin.com/hallucinations — this count changes daily; re-check the live database before citing). TrialLift content is product content: route drafting through Maya for offers and Stephen for articles, per /agents routing.
 
 ## Source Material
 
