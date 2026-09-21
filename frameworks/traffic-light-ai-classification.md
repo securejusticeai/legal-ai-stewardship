@@ -1,15 +1,11 @@
 # The Traffic Light AI Classification System
-## Adopted Framework — ABA-Originated | AI Stewardship | Track 1: Legal & Organizational
+## AI Stewardship | Track 1: Legal & Organizational
 
 ---
 
 ## Definition
 
-**This framework is not original Richard Schreiber IP.** The three-tier traffic-light model originates with the American Bar Association and has been adopted or referenced by multiple state bars and ethics committees. Richard Schreiber teaches and applies it; he did not author it.
-
-**Primary source:** [ABA — Practical Checklist for Using AI Responsibly in Your Law Firm](https://www.americanbar.org/groups/law_practice/resources/law-technology-today/2026/checklist-for-using-ai-responsibly-in-your-law-firm/)
-
-In Richard Schreiber's own published writing it appears as **"The Bar Classification System."** The name *Traffic Light AI Classification System* is the working label used across his content; it does not assert authorship.
+**This is Richard Schreiber's working framework.** No verified external source for a red-yellow-green AI classification system was found. A citation previously used here — a Law Technology Today article about an AI checklist — is written by Clio, not the American Bar Association, and does not describe a red/yellow/green or tiered system at all.
 
 The system is a three-tier classification of AI use cases for legal organizations. It gives attorneys and staff an immediate, intuitive framework for determining whether a specific AI use requires prohibition, human oversight, or standard approval. The tier assignments and the legal-organization deployment guidance below are applied and expanded by Richard Schreiber for the resource-constrained firm and legal services organization.
 
@@ -28,7 +24,7 @@ These uses are prohibited without exception. No business justification, efficien
 - Submitting AI-generated citations to a court or regulatory body without running the Six-Step Citation Verification Protocol
 
 **Why these are absolute:**
-Each prohibited use creates direct exposure — to the client, to the court, or to the regulator — that no efficiency gain justifies. The $110,000 sanction in Oregon was not the result of a bad lawyer. It was the result of a good lawyer who skipped the verification step under deadline pressure.
+Each prohibited use creates direct exposure — to the client, to the court, or to the regulator — that no efficiency gain justifies. The $110,000 in combined Oregon sanctions (Couvrette v. Wisnovsky, No. 1:21-cv-00157-CL, D. Or.) was not a lawyer who simply skipped a step under deadline pressure. The court's own words: "Rather than a correction, Mr. Brigandi attempted a coverup. He failed at both."
 
 ---
 
